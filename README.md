@@ -1,4 +1,10 @@
-# TLP Python Menu
+# TLP Python Menu 
+
+# Screenshot
+<img width="886" height="617" alt="menu" src="https://github.com/user-attachments/assets/8d68027c-c1b2-4a3a-bac3-18a2d4bc555a" />
+<img width="649" height="481" alt="Term" src="https://github.com/user-attachments/assets/24fb55ee-4c9f-4dd3-b5f5-f68cef6f2ecb" />
+<img width="970" height="617" alt="menutlp" src="https://github.com/user-attachments/assets/00f19a06-de98-40cc-b712-2b9d6bf63741" />
+
 
 Hey everyone 👋 I'm a beginner vibe-coder, and this is a small project I built to make TLP easier to use.
 
